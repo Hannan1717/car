@@ -63,6 +63,38 @@
       "tahun": 2020,
       "warna": "Biru",
       "harga": 550000000
+    },
+    {
+      "id": 9,
+      "merk": "Toyota",
+      "model": "Camry",
+      "tahun": 2022,
+      "warna": "Putih",
+      "harga": 500000000
+    },
+    {
+      "id": 10,
+      "merk": "Honda",
+      "model": "Civic",
+      "tahun": 2021,
+      "warna": "Hitam",
+      "harga": 450000000
+    },
+    {
+      "id": 11,
+      "merk": "Ford",
+      "model": "Mustang",
+      "tahun": 2023,
+      "warna": "Merah",
+      "harga": 700000000
+    },
+    {
+      "id": 12,
+      "merk": "Nissan",
+      "model": "X-Trail",
+      "tahun": 2020,
+      "warna": "Biru",
+      "harga": 550000000
     }
   ]
 }
