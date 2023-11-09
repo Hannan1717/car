@@ -1,0 +1,36 @@
+{
+  "mobil": [
+    {
+      "id": 1,
+      "merk": "Toyota",
+      "model": "Camry",
+      "tahun": 2022,
+      "warna": "Putih",
+      "harga": 500000000
+    },
+    {
+      "id": 2,
+      "merk": "Honda",
+      "model": "Civic",
+      "tahun": 2021,
+      "warna": "Hitam",
+      "harga": 450000000
+    },
+    {
+      "id": 3,
+      "merk": "Ford",
+      "model": "Mustang",
+      "tahun": 2023,
+      "warna": "Merah",
+      "harga": 700000000
+    },
+    {
+      "id": 4,
+      "merk": "Nissan",
+      "model": "X-Trail",
+      "tahun": 2020,
+      "warna": "Biru",
+      "harga": 550000000
+    }
+  ]
+}
